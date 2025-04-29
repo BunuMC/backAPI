@@ -1,4 +1,4 @@
-import express from express;
+import express from 'express';  // Note as aspas ao redor de 'express'
 import cors from 'cors';
 
 const app = express();
